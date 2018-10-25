@@ -34,4 +34,4 @@ class Book
   end
 end
 Book.new("And Then There were None")
-book.turn_page
+Book.turn_page
