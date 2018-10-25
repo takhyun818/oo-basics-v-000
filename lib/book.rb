@@ -33,5 +33,4 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
 end
-Book.new("And Then There were None")
-Book.turn_page
+
